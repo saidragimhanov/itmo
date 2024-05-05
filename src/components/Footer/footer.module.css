@@ -1,0 +1,17 @@
+.footer {
+  width: 100%;
+  background-color: rgb(59, 38, 155);
+}
+
+.logo {
+  font-size: 50px;
+  color: aliceblue;
+}
+
+.wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 50px;
+  color: aliceblue;
+}

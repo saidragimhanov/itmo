@@ -1,0 +1,36 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: rgb(59, 38, 155);
+}
+
+.logo {
+  font-size: 35px;
+  font-weight: 900;
+  color: aliceblue;
+}
+
+.nav > ul {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  list-style: none;
+  gap: 20px;
+  margin: 0;
+}
+
+.link {
+  text-decoration: none;
+  color: rgb(254, 252, 252);
+}
+
+.wrapper {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.active {
+  background-color: rgb(32, 55, 148);
+}
